@@ -1,3 +1,9 @@
+/**
+ * PUNTO 1: Uso de servicio externo
+ * - Implementación de llamadas asíncronas usando axios
+ * - Gestión de errores con mensajes específicos para cada tipo de error
+ */
+
 import axios from 'axios';
 
 // Configuración base de axios
